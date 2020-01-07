@@ -1,0 +1,5 @@
+2020-01-07 07:20:00
+First news message
+https://gitlab.com/breakingnewz/newsfeed/tree/2020/
+git, news, newsfeed
+Hi, everyone this is first our news message.
